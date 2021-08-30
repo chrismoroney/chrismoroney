@@ -1,7 +1,5 @@
 ### Welcome to my GitHub Page! 👋
 
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrismoroney&show_icons=true&theme=maroongold)
-
 - 🔭 I’m currently working on job applications!
 - 🌱 I’m currently learning about Angular apps
 - 👯 I’m looking to collaborate on any open source project
@@ -10,6 +8,10 @@
 - 📫 How to reach me: christopher.moroney1@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I graduated from Seattle Pacific University in 2 years!
+
+Check out my website [here](https://chrismoroney.info/)!
+
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrismoroney&show_icons=true&theme=maroongold)
 
 <!--
 Here are some ideas to get you started:
