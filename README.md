@@ -1,6 +1,6 @@
-### Hi there! Welcome to my GitHub page! 👋
+# Hi there! Welcome to my GitHub page! 👋
 
-# My name is Chris Moroney.
+### My name is Chris Moroney! Here are some things about me:
 
 - 🔭 I’m currently working on job applications!
 - 🌱 I’m currently learning about Angular apps
