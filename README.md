@@ -5,7 +5,7 @@
 #### Here are some things about me:
 
 - 🔭 I’m currently working on job applications!
-- 🌱 I’m currently learning about Angular apps
+- 🌱 I’m currently learning about Machine Learning
 - 👯 I’m looking to collaborate on any open source project
 - 🤔 I’m looking for help with mobile development
 - 💬 Ask me about full-stack development projects and tools (Node.js)
