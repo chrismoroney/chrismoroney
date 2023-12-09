@@ -4,7 +4,7 @@
 
 #### Here are some things about me:
 
-- 🔭 I’m currently working on job applications!
+- 🔭 I’m currently working as a software engineer at Milliman!
 - 🌱 I’m currently learning about Machine Learning
 - 👯 I’m looking to collaborate on any open source project
 - 🤔 I’m looking for help with mobile development
