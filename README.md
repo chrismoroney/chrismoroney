@@ -14,10 +14,10 @@
 - ⚡ Fun fact: I graduated from Seattle Pacific University in 2 years!
 
 Check out my website [here](https://chrismoroney.info/)!
-
+<!--
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrismoroney&show_icons=true&theme=maroongold)
 
-<!--
+
 Here are some ideas to get you started:
 
 
