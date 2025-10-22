@@ -4,11 +4,10 @@
 
 #### Here are some things about me:
 
-- 🔭 I’m currently working as a software engineer at Milliman!
+- 🔭 I’m currently working as a Senior Solutions Architect at arm!
 - 🌱 I’m currently learning about Machine Learning
-- 👯 I’m looking to collaborate on any open source project
 - 🤔 I’m looking for help with mobile development
-- 💬 Ask me about full-stack development projects and tools (Node.js)
+- 💬 Ask me about full-stack development projects and tools (React.js)
 - 📫 How to reach me: christopher.moroney1@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I graduated from Seattle Pacific University in 2 years!
